@@ -1,1 +1,1 @@
-# Table-Detection-and-Text-Extraction
+# Table-detection-and-text-extraction
